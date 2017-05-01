@@ -2,3 +2,5 @@
   image: some_product.png
 - name: Other product
   image: other_product.png
+- name: Other product
+  image: other_product.png
